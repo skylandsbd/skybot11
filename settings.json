@@ -29,11 +29,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 320,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium Server? https://discord.gg/VRMUnDkf95"
+        "Headsteal,just die and examine if you can respawn",
+        "GGS!",
+        "You are not in my level bro"
+        "nah you guys are weak,NOT_MAHADI_ is the best"
       ]
     },
     "chat-log": true,
